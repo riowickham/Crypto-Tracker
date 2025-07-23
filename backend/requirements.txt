@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+yfinance
+pandas
+ta
+smtplib
+email-validator
+python-multipart
